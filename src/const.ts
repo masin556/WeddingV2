@@ -21,7 +21,7 @@ dayjs.locale("ko")
 
 export { dayjs }
 
-export const WEDDING_DATE = dayjs.tz("2025-04-18 11:00", "Asia/Seoul")
+export const WEDDING_DATE = dayjs.tz("2026-04-18 11:00", "Asia/Seoul")
 export const HOLIDAYS = [15]
 
 export const LOCATION = "국회의사당 소통관"
